@@ -13,5 +13,6 @@
 	},
 	"author": "Camilo Rueda",
 	"description": "A project that does something awesome",
-	"keywords": ["freecodecamp", "nice"]
+	"keywords": ["freecodecamp", "nice"],
+	"license": "nothing"
 }
